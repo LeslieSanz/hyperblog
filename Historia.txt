@@ -1,4 +1,6 @@
 Esta es la historia de Leslie Sanchez
 
 Leslie es una estudiante del sexto ciclo de la carrera ingenieria de software en 
-la universidad Catolica del Peru
+la universidad Tecnologica del Peru. Y es
+una persona que contribuye en este proyecto 
+open source.
